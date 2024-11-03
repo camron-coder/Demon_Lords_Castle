@@ -1,0 +1,34 @@
+---- light / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+LoadBSPFile: 'Demon_Lords_Castle.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+img::ConvertTextures: WARNING: Texture  duplicated
+Loading extended texinfo flags from Demon_Lords_Castle.texinfo.json...
+WARNING: entity at () (worldspawn) has empty key/value "wad" ""
+2 entities read, 0 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+DecompressAllVis: invalid visofs for leaf 0
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	0 sky faces
+	0 solid faces
+	0 filtered faces
+	6 shadow-casting skip faces
+SetupLights: 0 initial lights
+SetupLights: 0 after surface lights
+SetupLights: 0 after jittering
+Final count: 0 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 0
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing Demon_Lords_Castle.bsp as Quake BSP bsp29
+0.005s seconds elapsed
+0 empty lightmaps
+
+
