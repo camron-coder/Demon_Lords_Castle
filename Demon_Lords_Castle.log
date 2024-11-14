@@ -14,79 +14,82 @@ WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \k
-     5 entities
-     4 unique textures
-    25 texinfos
-    38 unique planes
+    10 entities
+     6 unique textures
+    49 texinfos
+    92 unique planes
 
 INFO: world extents calculated to 8072 units
-     4 brushes
-    24 sides
+     31 brushes
+    186 sides
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    1 WATER | Q2_UNUSED_8 brushes
-    2 SOLID brushes
-    3 brushes total
-    18 visible sides
-INFO: calculating BSP for 3 brushes with 18 sides
-     3 brushes
-    18 visible faces
-    17 nodes
-    17 mid-split nodes
-    18 leaves
-     1 WATER | Q2_UNUSED_8 leafs
-    14 EMPTY leafs
-     3 SOLID leafs
-    18 leafs total
-    7 max tree height
-    5 avg tree height
-    94 tree portals
-WARNING: Reached occupant "info_player_start" at (-16 -32 40), no filling performed.
+     1 WATER | Q2_UNUSED_8 brushes
+    29 SOLID brushes
+    30 brushes total
+    180 visible sides
+INFO: calculating BSP for 30 brushes with 180 sides
+     30 brushes
+    180 visible faces
+    165 nodes
+     64 expensive split nodes
+    101 mid-split nodes
+    166 leaves
+      7 WATER | Q2_UNUSED_8 leafs
+     98 EMPTY leafs
+     61 SOLID leafs
+    166 leafs total
+    16 max tree height
+    10 avg tree height
+    734 tree portals
+WARNING: Reached occupant "path_corner" at (-536 -152 -8), no filling performed.
 Leak file written to Demon_Lords_Castle.pts
-            3 portals written to Demon_Lords_Castle.leak.prt
-    94 tree portals
-    40 sides visible
-       37 makefaces
-        3 merged
-    1,208 subdivided
-     1 WATER | Q2_UNUSED_8 leafs
-    14 EMPTY leafs
-     3 SOLID leafs
-    18 leafs total
-    7 max tree height
-    5 avg tree height
-      384 edges added by tjunctions
-    1,242 faces optimized through MWT
-    2,868 triangles computed from MWT
-       45 faces created via optimization of MWT triangles
-    2,833 edges
-    1,287 faces
+            2 portals written to Demon_Lords_Castle.leak.prt
+    734 tree portals
+    269 sides visible
+      265 makefaces
+       34 merged
+    1,271 subdivided
+    5 nodes pruned
+      7 WATER | Q2_UNUSED_8 leafs
+     98 EMPTY leafs
+     56 SOLID leafs
+    161 leafs total
+    16 max tree height
+    10 avg tree height
+      448 edges added by tjunctions
+    1,502 faces optimized through MWT
+    3,452 triangles computed from MWT
+       73 faces created via optimization of MWT triangles
+    3,395 edges
+    1,575 faces
 Processing hull 1...
-WARNING: Reached occupant "info_player_start" at (-16 -32 40), no filling performed.
+WARNING: Reached occupant "path_corner" at (-536 -152 -8), no filling performed.
 Processing hull 2...
-WARNING: Reached occupant "info_player_start" at (-16 -32 40), no filling performed.
+WARNING: Reached occupant "path_corner" at (-536 -152 -8), no filling performed.
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 203 >= 127)
 Writing Demon_Lords_Castle.bsp as Quake BSP bsp29
 Wrote Demon_Lords_Castle.bsp
 
 count   lump name    byte size 
       2 models              128
-     49 planes              980
-    893 vertexes          10716
-     23 nodes               552
-     23 texinfos            920
-   1293 faces             25860
-     52 clipnodes           416
-     23 leafs               644
-   1297 marksurfaces       2594
-   2846 edges             11384
-   5466 surfedges         21864
-      4 textures          49100
+    131 planes             2620
+   1193 vertexes          14316
+    166 nodes              3984
+     40 texinfos           1600
+   1581 faces             31620
+    761 clipnodes          6088
+    113 leafs              3164
+   1592 marksurfaces       3184
+   3408 edges             13632
+   6626 surfedges         26504
+      6 textures          55988
         lightdata             0
         visdata               0
-        entdata             431
+        entdata             953
 
-0.038s seconds elapsed
+0.047s seconds elapsed
 
 
