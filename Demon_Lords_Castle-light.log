@@ -11,7 +11,7 @@ WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \k
-WARNING: brush entity with mins [-95 -127 -31] maxs [79 63 -1] (func_train) has empty key/value "targetname" ""
+WARNING: brush entity with mins [-95 -95 -31] maxs [47 15 -1] (func_train) has empty key/value "targetname" ""
 5 entities read, 0 are lights.
 
 --- Options Summary ---
@@ -21,7 +21,7 @@ DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
 	0 sky faces
-	6 solid faces
+	310 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -34,7 +34,7 @@ Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing Demon_Lords_Castle.bsp as Quake BSP bsp29
-0.006s seconds elapsed
+0.068s seconds elapsed
 0 empty lightmaps
 
 

@@ -15,71 +15,78 @@ WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \k
      5 entities
-     2 unique textures
-    13 texinfos
-    22 unique planes
+     4 unique textures
+    25 texinfos
+    38 unique planes
 
-INFO: world extents calculated to 1448 units
-     2 brushes
-    12 sides
+INFO: world extents calculated to 8072 units
+     4 brushes
+    24 sides
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    1 SOLID brushes
-    1 brushes total
-    6 visible sides
-INFO: calculating BSP for 1 brushes with 6 sides
-    1 brushes
-    6 visible faces
-    6 nodes
-    6 expensive split nodes
-    7 leaves
-    6 EMPTY leafs
-    1 SOLID leafs
-    7 leafs total
+    1 WATER | Q2_UNUSED_8 brushes
+    2 SOLID brushes
+    3 brushes total
+    18 visible sides
+INFO: calculating BSP for 3 brushes with 18 sides
+     3 brushes
+    18 visible faces
+    17 nodes
+    17 mid-split nodes
+    18 leaves
+     1 WATER | Q2_UNUSED_8 leafs
+    14 EMPTY leafs
+     3 SOLID leafs
+    18 leafs total
     7 max tree height
-    4 avg tree height
-    36 tree portals
-WARNING: Reached occupant "info_player_start" at (-16 0 40), no filling performed.
+    5 avg tree height
+    94 tree portals
+WARNING: Reached occupant "info_player_start" at (-16 -32 40), no filling performed.
 Leak file written to Demon_Lords_Castle.pts
-            0 portals written to Demon_Lords_Castle.leak.prt
-    36 tree portals
-    6 sides visible
-    6 makefaces
-    6 EMPTY leafs
-    1 SOLID leafs
-    7 leafs total
+            3 portals written to Demon_Lords_Castle.leak.prt
+    94 tree portals
+    40 sides visible
+       37 makefaces
+        3 merged
+    1,208 subdivided
+     1 WATER | Q2_UNUSED_8 leafs
+    14 EMPTY leafs
+     3 SOLID leafs
+    18 leafs total
     7 max tree height
-    4 avg tree height
-     6 faces optimized through MWT
-    12 triangles computed from MWT
-    12 edges
-     6 faces
+    5 avg tree height
+      384 edges added by tjunctions
+    1,242 faces optimized through MWT
+    2,868 triangles computed from MWT
+       45 faces created via optimization of MWT triangles
+    2,833 edges
+    1,287 faces
 Processing hull 1...
-WARNING: Reached occupant "info_player_start" at (-16 0 40), no filling performed.
+WARNING: Reached occupant "info_player_start" at (-16 -32 40), no filling performed.
 Processing hull 2...
-WARNING: Reached occupant "info_player_start" at (-16 0 40), no filling performed.
+WARNING: Reached occupant "info_player_start" at (-16 -32 40), no filling performed.
 Writing Demon_Lords_Castle.bsp as Quake BSP bsp29
 Wrote Demon_Lords_Castle.bsp
 
 count   lump name    byte size 
       2 models              128
-     30 planes              600
-     16 vertexes            192
-     12 nodes               288
-     12 texinfos            480
-     12 faces               240
-     24 clipnodes           192
-     14 leafs               392
-     12 marksurfaces         24
-     25 edges               100
-     48 surfedges           192
-      2 textures          21812
+     49 planes              980
+    893 vertexes          10716
+     23 nodes               552
+     23 texinfos            920
+   1293 faces             25860
+     52 clipnodes           416
+     23 leafs               644
+   1297 marksurfaces       2594
+   2846 edges             11384
+   5466 surfedges         21864
+      4 textures          49100
         lightdata             0
         visdata               0
-        entdata             428
+        entdata             431
 
-0.011s seconds elapsed
+0.037s seconds elapsed
 
 
