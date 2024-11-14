@@ -18,7 +18,7 @@
 // entity 1
 {
 "classname" "info_player_start"
-"origin" "-16 0 40"
+"origin" "-16 -32 40"
 }
 // entity 2
 {
