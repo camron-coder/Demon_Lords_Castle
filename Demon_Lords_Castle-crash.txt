@@ -1,0 +1,240 @@
+OS:	Windows 10 Version 2009
+Qt:	5.15.2
+GL_VENDOR:	NVIDIA Corporation
+GL_RENDERER:	Quadro P5000/PCIe/SSE2
+GL_VERSION:	4.6.0 NVIDIA 535.98
+TrenchBroom Version:	2024.1
+TrenchBroom Build:	v2024.1-439-g30c81a427 Release Win64
+Reason:	3221225477
+Stack trace:
+SymInit: Symbol-SearchPath: '.;C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor;C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Anderson04'
+OS-Version: 6.2.9200 () 0x100-0x1
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\TrenchBroom.exe:TrenchBroom.exe (00007FF602AE0000), size: 8728576 (result: 0), SymType: 'PDB', PDB: '.\TrenchBroom-stripped.pdb', fileVersion: 2024.1.0.0
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFFC7C10000), size: 2191360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFFC67E0000), size: 802816 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNEL32.DLL', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFFC5570000), size: 3903488 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNELBASE.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFFC6720000), size: 729088 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ADVAPI32.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFFC64D0000), size: 684032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcrt.dll', fileVersion: 7.0.22621.2506
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\glew32.dll:glew32.dll (00007FFF223B0000), size: 552960 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\glew32.dll', fileVersion: 2.2.0.0
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\tinyxml2.dll:tinyxml2.dll (00007FFFA48B0000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\tinyxml2.dll'
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFF84AA0000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFFC5930000), size: 684032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\sechost.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFFC68B0000), size: 1761280 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\USER32.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FFFC54A0000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\bcrypt.dll', fileVersion: 6.2.22621.2506
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFFC5540000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\win32u.dll', fileVersion: 6.2.22621.4460
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFFC6580000), size: 1130496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\RPCRT4.dll', fileVersion: 6.2.22621.4249
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFFC6CC0000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\GDI32.dll', fileVersion: 6.2.22621.4036
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFFC5380000), size: 1118208 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ucrtbase.dll', fileVersion: 6.2.22621.3593
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFFC4FB0000), size: 1159168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\gdi32full.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFFC7240000), size: 8871936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHELL32.dll', fileVersion: 6.2.22621.4460
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFFC4F10000), size: 630784 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcp_win.dll', fileVersion: 6.2.22621.3374
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\miniz.dll:miniz.dll (00007FFFA4830000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\miniz.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\FreeImage.dll:FreeImage.dll (00007FFF222C0000), size: 970752 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\FreeImage.dll', fileVersion: 3.18.0.0
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFFC5A60000), size: 3731456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\combase.dll', fileVersion: 6.2.22621.4391
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\freetype.dll:freetype.dll (00007FFF21BF0000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\freetype.dll', fileVersion: 2.13.2.0
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Qt5Svg.dll:Qt5Svg.dll (00007FFF4F830000), size: 344064 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Qt5Svg.dll', fileVersion: 5.15.2.0
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Qt5Widgets.dll:Qt5Widgets.dll (00007FFF1BA40000), size: 5509120 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Qt5Widgets.dll', fileVersion: 5.15.2.0
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFFC6E30000), size: 1724416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ole32.dll', fileVersion: 6.2.22621.3958
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Qt5Gui.dll:Qt5Gui.dll (00007FFF1B380000), size: 7057408 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Qt5Gui.dll', fileVersion: 5.15.2.0
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Qt5Core.dll:Qt5Core.dll (00007FFF1ADB0000), size: 6053888 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Qt5Core.dll', fileVersion: 5.15.2.0
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\fmt.dll:fmt.dll (00007FFFA4280000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\fmt.dll'
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFFC66A0000), size: 462848 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WS2_32.dll', fileVersion: 6.2.22621.1
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\assimp-vc143-mt.dll:assimp-vc143-mt.dll (00007FFF1A880000), size: 5439488 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\assimp-vc143-mt.dll', fileVersion: 5.3.0.0
+C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll:VCRUNTIME140.dll (00007FFFBA450000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll', fileVersion: 14.38.33130.0
+C:\WINDOWS\SYSTEM32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00007FFFBC3D0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VCRUNTIME140_1.dll', fileVersion: 14.38.33130.0
+C:\WINDOWS\SYSTEM32\MSVCP140.dll:MSVCP140.dll (00007FFFBA3C0000), size: 577536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCP140.dll', fileVersion: 14.38.33130.0
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFFC3BC0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\SYSTEM32\CONCRT140.dll:CONCRT140.dll (00007FFF73F70000), size: 315392 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CONCRT140.dll', fileVersion: 14.38.33130.0
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFF9C4F0000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 6.2.22621.2506
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\zlib1.dll:zlib1.dll (00007FFFA1FF0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\zlib1.dll', fileVersion: 1.3.1.0
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\bz2.dll:bz2.dll (00007FFF84A40000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\bz2.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\libpng16.dll:libpng16.dll (00007FFF2E320000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\libpng16.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\brotlidec.dll:brotlidec.dll (00007FFF81720000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\brotlidec.dll'
+C:\WINDOWS\SYSTEM32\UxTheme.dll:UxTheme.dll (00007FFFC1FC0000), size: 724992 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\UxTheme.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFFC2540000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dwmapi.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\MSVCP140_1.dll:MSVCP140_1.dll (00007FFFA7360000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCP140_1.dll', fileVersion: 14.38.33130.0
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFFC1050000), size: 2453504 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFFC22E0000), size: 1011712 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 6.2.22621.4036
+C:\WINDOWS\SYSTEM32\MPR.dll:MPR.dll (00007FFFB9AD0000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MPR.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFFC45B0000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\USERENV.dll', fileVersion: 6.2.22621.3527
+C:\WINDOWS\SYSTEM32\NETAPI32.dll:NETAPI32.dll (00007FFFC3BA0000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\NETAPI32.dll', fileVersion: 6.2.22621.2506
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFFB9A90000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 6.2.22621.4391
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\minizip.dll:minizip.dll (00007FFF79090000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\minizip.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\poly2tri.dll:poly2tri.dll (00007FFFBDD30000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\poly2tri.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\pugixml.dll:pugixml.dll (00007FFF2D020000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\pugixml.dll', fileVersion: 1.14.0.0
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\brotlicommon.dll:brotlicommon.dll (00007FFF2CFF0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\brotlicommon.dll'
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FFFC22A0000), size: 225280 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxcore.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\NETUTILS.DLL:NETUTILS.DLL (00007FFFC3B30000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\NETUTILS.DLL', fileVersion: 6.2.22621.2506
+C:\WINDOWS\SYSTEM32\SRVCLI.DLL:SRVCLI.DLL (00007FFFC37F0000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SRVCLI.DLL', fileVersion: 6.2.22621.4249
+C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL:CRYPTBASE.DLL (00007FFFC4730000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL', fileVersion: 6.2.22621.1
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\openjp2.dll:openjp2.dll (00007FFF21B90000), size: 376832 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\openjp2.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\jpeg62.dll:jpeg62.dll (00007FFF1C9C0000), size: 696320 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\jpeg62.dll', fileVersion: 62.4.0.0
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\tiff.dll:tiff.dll (00007FFF21190000), size: 475136 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\tiff.dll', fileVersion: 4.6.0.0
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\libwebpmux.dll:libwebpmux.dll (00007FFFBD320000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\libwebpmux.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\libwebpdecoder.dll:libwebpdecoder.dll (00007FFF2CF00000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\libwebpdecoder.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\raw.dll:raw.dll (00007FFF1C860000), size: 1417216 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\raw.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\OpenEXR-3_1.dll:OpenEXR-3_1.dll (00007FFF09300000), size: 2895872 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\OpenEXR-3_1.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Imath-3_1.dll:Imath-3_1.dll (00007FFF1C800000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Imath-3_1.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Iex-3_1.dll:Iex-3_1.dll (00007FFF224B0000), size: 299008 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\Iex-3_1.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\libwebp.dll:libwebp.dll (00007FFF1C790000), size: 397312 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\libwebp.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\liblzma.dll:liblzma.dll (00007FFF2B040000), size: 200704 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\liblzma.dll', fileVersion: 5.4.4.0
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\lcms2.dll:lcms2.dll (00007FFF1C730000), size: 380928 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\lcms2.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\IlmThread-3_1.dll:IlmThread-3_1.dll (00007FFFBD140000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\IlmThread-3_1.dll'
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\libsharpyuv.dll:libsharpyuv.dll (00007FFFAF7C0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\libsharpyuv.dll'
+C:\WINDOWS\System32\IMM32.DLL:IMM32.DLL (00007FFFC6DF0000), size: 200704 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\IMM32.DLL', fileVersion: 6.2.22621.3374
+C:\WINDOWS\System32\umppc18721.dll:umppc18721.dll (0000022698100000), size: 81920 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\umppc18721.dll', fileVersion: 7.17.18721.0
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFFC6CF0000), size: 1019904 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\shcore.dll', fileVersion: 6.2.22621.4391
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\platforms\qwindows.dll:qwindows.dll (00007FFF1A710000), size: 1495040 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\platforms\qwindows.dll', fileVersion: 5.15.2.0
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFFC6BE0000), size: 880640 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\OLEAUT32.dll', fileVersion: 6.2.22621.3672
+C:\WINDOWS\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (00007FFFC3DF0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WTSAPI32.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFFC4040000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\kernel.appcore.dll', fileVersion: 6.2.22621.3958
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFFC50D0000), size: 503808 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\bcryptPrimitives.dll', fileVersion: 6.2.22621.4317
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFFC29C0000), size: 9449472 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\windows.storage.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFFC2880000), size: 1306624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wintypes.dll', fileVersion: 6.2.22621.3810
+C:\WINDOWS\System32\shlwapi.dll:shlwapi.dll (00007FFFC6370000), size: 385024 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\shlwapi.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (00007FFFC4E40000), size: 176128 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\profapi.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (00007FFFC3DA0000), size: 315392 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\powrprof.dll', fileVersion: 6.2.22621.3958
+C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFFC3D80000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\UMPDC.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\system32\d3d9.dll:d3d9.dll (00007FFF596B0000), size: 1736704 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\d3d9.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\msasn1.dll:msasn1.dll (00007FFFC4BB0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msasn1.dll', fileVersion: 6.2.22621.2506
+C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFFBEE60000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cryptnet.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFFC5150000), size: 1466368 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CRYPT32.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\wintrust.dll:wintrust.dll (00007FFFC54D0000), size: 442368 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\wintrust.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (00007FFFC7220000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\imagehlp.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFFC4710000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTSP.dll', fileVersion: 6.2.22621.3672
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFFC3FA0000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\rsaenh.dll', fileVersion: 6.2.22621.4249
+C:\WINDOWS\SYSTEM32\directxdatabasehelper.dll:directxdatabasehelper.dll (00007FFFB17A0000), size: 299008 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\directxdatabasehelper.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFFC6A60000), size: 1441792 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSCTF.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFFC7AC0000), size: 720896 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\Windows\System32\AppXDeploymentClient.dll:AppXDeploymentClient.dll (00007FFFBB4E0000), size: 1327104 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\AppXDeploymentClient.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\DriverStore\FileRepository\nvlw.inf_amd64_6f4ccf219f426a39\nvoglv64.dll:nvoglv64.dll (00007FFF03E80000), size: 69767168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\nvlw.inf_amd64_6f4ccf219f426a39\nvoglv64.dll', fileVersion: 31.0.15.3598
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFFC5E50000), size: 4669440 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SETUPAPI.dll', fileVersion: 6.2.22621.2506
+C:\WINDOWS\SYSTEM32\drvstore.dll:drvstore.dll (00007FFFBECB0000), size: 1449984 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\drvstore.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\devobj.dll:devobj.dll (00007FFFC4C40000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\devobj.dll', fileVersion: 6.2.22621.2506
+C:\WINDOWS\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (00007FFFC4BD0000), size: 319488 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cfgmgr32.dll', fileVersion: 6.2.22621.2506
+C:\WINDOWS\SYSTEM32\wldp.dll:wldp.dll (00007FFFC47C0000), size: 299008 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wldp.dll', fileVersion: 6.2.22621.4036
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFFC4150000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntmarta.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\SYSTEM32\WINSTA.dll:WINSTA.dll (00007FFFC3A40000), size: 417792 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINSTA.dll', fileVersion: 6.2.22621.4391
+C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\styles\qwindowsvistastyle.dll:qwindowsvistastyle.dll (00007FFF2BBD0000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\Desktop\quake-leveldesign-starterkit-20240930-windows\level-editor\styles\qwindowsvistastyle.dll', fileVersion: 5.15.2.0
+C:\WINDOWS\system32\dwrite.dll:dwrite.dll (00007FFFC07E0000), size: 2568192 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dwrite.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\system32\dataexchange.dll:dataexchange.dll (00007FFF97260000), size: 385024 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dataexchange.dll', fileVersion: 6.2.22621.3672
+C:\WINDOWS\system32\twinapi.appcore.dll:twinapi.appcore.dll (00007FFFAEA40000), size: 2768896 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\twinapi.appcore.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFFA6380000), size: 1331200 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\textinputframework.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFFC1930000), size: 1257472 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CoreMessaging.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFFB1200000), size: 3592192 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CoreUIComponents.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\edputil.dll:edputil.dll (00007FFFA18A0000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\edputil.dll', fileVersion: 6.2.22621.3527
+C:\WINDOWS\System32\comdlg32.dll:comdlg32.dll (00007FFFC63D0000), size: 1044480 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\comdlg32.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.22621.3527_none_b43b7f4b638cc64f\COMCTL32.dll:COMCTL32.dll (00007FFFA59B0000), size: 733184 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.22621.3527_none_b43b7f4b638cc64f\COMCTL32.dll', fileVersion: 5.82.22621.3527
+C:\WINDOWS\system32\propsys.dll:propsys.dll (00007FFFBF760000), size: 1052672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\propsys.dll', fileVersion: 7.0.22621.4391
+C:\Windows\System32\Windows.FileExplorer.Common.dll:Windows.FileExplorer.Common.dll (00007FFFA1A00000), size: 745472 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\Windows.FileExplorer.Common.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\DUI70.dll:DUI70.dll (00007FFF9ACC0000), size: 1818624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DUI70.dll', fileVersion: 6.2.22621.3527
+C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22621.4391_none_2715d37f73803e96\Comctl32.dll:Comctl32.dll (00007FFFB3CB0000), size: 2695168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22621.4391_none_2715d37f73803e96\Comctl32.dll', fileVersion: 6.10.22621.4391
+C:\WINDOWS\System32\DUser.dll:DUser.dll (00007FFFA5330000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DUser.dll', fileVersion: 6.2.22621.4249
+C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll:tiptsf.dll (00007FFF9D180000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\TextShaping.dll:TextShaping.dll (00007FFFAD840000), size: 724992 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\TextShaping.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\OLEACC.dll:OLEACC.dll (00007FFFB1720000), size: 430080 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OLEACC.dll', fileVersion: 7.2.22621.1
+C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL:UIAutomationCore.DLL (00007FFF96D10000), size: 4493312 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL', fileVersion: 7.2.22621.4391
+C:\WINDOWS\system32\explorerframe.dll:explorerframe.dll (00007FFF819B0000), size: 2842624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\explorerframe.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FFFC1A70000), size: 1769472 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WindowsCodecs.dll', fileVersion: 6.2.22621.4455
+C:\Windows\System32\thumbcache.dll:thumbcache.dll (00007FFF8C9C0000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\thumbcache.dll', fileVersion: 6.2.22621.3672
+C:\Windows\System32\Windows.Globalization.dll:Windows.Globalization.dll (00007FFFAD630000), size: 1814528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\Windows.Globalization.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\globinputhost.dll:globinputhost.dll (00007FFFB4FF0000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\globinputhost.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\Bcp47Langs.dll:Bcp47Langs.dll (00007FFFB1810000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\Bcp47Langs.dll', fileVersion: 6.2.22621.3672
+C:\WINDOWS\SYSTEM32\ntshrui.dll:ntshrui.dll (00007FFF8B210000), size: 663552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntshrui.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFFC42A0000), size: 274432 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SspiCli.dll', fileVersion: 6.2.22621.3810
+C:\WINDOWS\SYSTEM32\cscapi.dll:cscapi.dll (00007FFFB2FA0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cscapi.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\SYSTEM32\policymanager.dll:policymanager.dll (00007FFFBE2E0000), size: 675840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\policymanager.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\msvcp110_win.dll:msvcp110_win.dll (00007FFFBE150000), size: 602112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msvcp110_win.dll', fileVersion: 6.2.22621.1
+C:\Windows\System32\OneCoreCommonProxyStub.dll:OneCoreCommonProxyStub.dll (00007FFFA1AC0000), size: 720896 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\OneCoreCommonProxyStub.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\system32\xmllite.dll:xmllite.dll (00007FFFB5F90000), size: 225280 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\xmllite.dll', fileVersion: 6.2.22621.2506
+C:\WINDOWS\SYSTEM32\sxs.dll:sxs.dll (00007FFFC4D80000), size: 667648 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\sxs.dll', fileVersion: 6.2.22621.2506
+C:\WINDOWS\SYSTEM32\atlthunk.dll:atlthunk.dll (00007FFFBC4E0000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\atlthunk.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\System32\StructuredQuery.dll:StructuredQuery.dll (00007FFFB3990000), size: 774144 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\StructuredQuery.dll', fileVersion: 7.0.22621.4391
+C:\Windows\System32\OneCoreUAPCommonProxyStub.dll:OneCoreUAPCommonProxyStub.dll (00007FFFB3F50000), size: 6471680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\OneCoreUAPCommonProxyStub.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\system32\Windows.Storage.Search.dll:Windows.Storage.Search.dll (00007FFFA1900000), size: 987136 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\Windows.Storage.Search.dll', fileVersion: 6.2.22621.4391
+C:\Windows\System32\Windows.System.Launcher.dll:Windows.System.Launcher.dll (00007FFFBAEE0000), size: 1298432 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\Windows.System.Launcher.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\windows.staterepositorycore.dll:windows.staterepositorycore.dll (00007FFFBAEC0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\windows.staterepositorycore.dll', fileVersion: 6.2.22621.4036
+C:\WINDOWS\system32\windowsudk.shellcommon.dll:windowsudk.shellcommon.dll (00007FFF8EB20000), size: 5754880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\windowsudk.shellcommon.dll', fileVersion: 6.2.22621.4460
+C:\Windows\System32\Windows.UI.dll:Windows.UI.dll (00007FFFAF380000), size: 1544192 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\Windows.UI.dll', fileVersion: 6.2.22621.4391
+C:\Windows\System32\Windows.UI.Immersive.dll:Windows.UI.Immersive.dll (00007FFFAF200000), size: 1527808 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\Windows.UI.Immersive.dll', fileVersion: 6.2.22621.4391
+C:\Windows\System32\twinapi.dll:twinapi.dll (00007FFF855B0000), size: 827392 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\twinapi.dll', fileVersion: 6.2.22621.3672
+C:\WINDOWS\System32\coml2.dll:coml2.dll (00007FFFC6FE0000), size: 512000 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\coml2.dll', fileVersion: 6.2.22621.3672
+C:\WINDOWS\SYSTEM32\LINKINFO.dll:LINKINFO.dll (00007FFFAF1B0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\LINKINFO.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\System32\p9np.dll:p9np.dll (00007FFFA0370000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\p9np.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\System32\drprov.dll:drprov.dll (00007FFFAF640000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\drprov.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\System32\ntlanman.dll:ntlanman.dll (00007FFFA3C10000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ntlanman.dll', fileVersion: 6.2.22621.4249
+C:\WINDOWS\System32\davclnt.dll:davclnt.dll (00007FFFA2460000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\davclnt.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\System32\wkscli.dll:wkscli.dll (00007FFFBF040000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\wkscli.dll', fileVersion: 6.2.22621.4249
+C:\Windows\System32\urlmon.dll:urlmon.dll (00007FFFAE240000), size: 2031616 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\urlmon.dll', fileVersion: 11.0.22621.4169
+C:\Windows\System32\iertutil.dll:iertutil.dll (00007FFFADF80000), size: 2875392 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\iertutil.dll', fileVersion: 11.0.22621.4391
+C:\WINDOWS\SYSTEM32\apphelp.dll:apphelp.dll (00007FFFC1C60000), size: 618496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\apphelp.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\system32\NetworkExplorer.dll:NetworkExplorer.dll (00007FFFBDD00000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\NetworkExplorer.dll', fileVersion: 6.2.22621.3527
+C:\Program Files (x86)\Common Files\Adobe\CoreSyncExtension\CoreSync_x64.dll:CoreSync_x64.dll (00007FFF7C170000), size: 811008 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Common Files\Adobe\CoreSyncExtension\CoreSync_x64.dll', fileVersion: 7.2.0.58
+C:\Users\anderson04\AppData\Local\Microsoft\OneDrive\24.211.1020.0001\FileSyncShell64.dll:FileSyncShell64.dll (00007FFF1DE80000), size: 1921024 (result: 0), SymType: '-exported-', PDB: 'C:\Users\anderson04\AppData\Local\Microsoft\OneDrive\24.211.1020.0001\FileSyncShell64.dll', fileVersion: 24.211.1020.1
+C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FFFC3E10000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\Secur32.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\SYSTEM32\WININET.dll:WININET.dll (00007FFFB7060000), size: 5234688 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WININET.dll', fileVersion: 11.0.22621.4391
+C:\Windows\System32\EhStorShell.dll:EhStorShell.dll (00007FFF79050000), size: 225280 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\EhStorShell.dll', fileVersion: 6.2.22621.1
+C:\WINDOWS\System32\cscui.dll:cscui.dll (00007FFF742F0000), size: 860160 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\cscui.dll', fileVersion: 6.2.22621.4391
+C:\WINDOWS\SYSTEM32\windows.staterepositoryclient.dll:windows.staterepositoryclient.dll (00007FFFBAE80000), size: 249856 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\windows.staterepositoryclient.dll', fileVersion: 6.2.22621.4036
+C:\WINDOWS\SYSTEM32\mrmcorer.dll:mrmcorer.dll (00007FFFB1570000), size: 1138688 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\mrmcorer.dll', fileVersion: 6.2.22621.3672
+C:\WINDOWS\SYSTEM32\bcp47mrm.dll:bcp47mrm.dll (00007FFFAFFD0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcp47mrm.dll', fileVersion: 6.2.22621.4391
+C:\Windows\System32\ActXPrxy.dll:ActXPrxy.dll (00007FFFAE430000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ActXPrxy.dll', fileVersion: 6.2.22621.3958
+C:\Windows\System32\cldapi.dll:cldapi.dll (00007FFFA18D0000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\cldapi.dll', fileVersion: 6.2.22621.2506
+C:\WINDOWS\SYSTEM32\virtdisk.dll:virtdisk.dll (00007FFFA5AC0000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\virtdisk.dll', fileVersion: 6.2.22621.3672
+C:\Windows\System32\Windows.StateRepositoryPS.dll:Windows.StateRepositoryPS.dll (00007FFFA1B70000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\Windows.StateRepositoryPS.dll', fileVersion: 6.2.22621.4036
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFFBE3D0000), size: 2301952 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 6.2.22621.3593
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1BA7B9D2)
+00007FFF1BA7B9D2 (Qt5Widgets): (filename not available): QWidget::mapToGlobal
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1BA7B930)
+00007FFF1BA7B930 (Qt5Widgets): (filename not available): QWidget::mapToGlobal
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF602DFE451)
+00007FF602DFE451 (TrenchBroom): (filename not available): QtPrivate::QFunctorSlotObject<`TrenchBroom::View::CompilationTaskListBox::createItemRenderer'::`2'::<lambda_6>,1,QtPrivate::List<QPoint const &>,void>::impl
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1AFA1D49)
+00007FFF1AFA1D49 (Qt5Core): (filename not available): QObject::qt_static_metacall
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1BA7604A)
+00007FFF1BA7604A (Qt5Widgets): (filename not available): QWidget::customContextMenuRequested
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1BA77E96)
+00007FFF1BA77E96 (Qt5Widgets): (filename not available): QWidget::event
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1BA54990)
+00007FFF1BA54990 (Qt5Widgets): (filename not available): QApplicationPrivate::notify_helper
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1BA530C3)
+00007FFF1BA530C3 (Qt5Widgets): (filename not available): QApplication::notify
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF602D8DFDA)
+00007FF602D8DFDA (TrenchBroom): (filename not available): TrenchBroom::View::TrenchBroomApp::notify
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1AF82ACA)
+00007FFF1AF82ACA (Qt5Core): (filename not available): QCoreApplication::notifyInternal2
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1BAA04EE)
+00007FFF1BAA04EE (Qt5Widgets): (filename not available): QSizePolicy::QSizePolicy
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1BA9E38E)
+00007FFF1BA9E38E (Qt5Widgets): (filename not available): QSizePolicy::QSizePolicy
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1BA54990)
+00007FFF1BA54990 (Qt5Widgets): (filename not available): QApplicationPrivate::notify_helper
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1BA53A13)
+00007FFF1BA53A13 (Qt5Widgets): (filename not available): QApplication::notify
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF602D8DFDA)
+00007FF602D8DFDA (TrenchBroom): (filename not available): TrenchBroom::View::TrenchBroomApp::notify
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1AF82ACA)
+00007FFF1AF82ACA (Qt5Core): (filename not available): QCoreApplication::notifyInternal2
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1B3C32B6)
+00007FFF1B3C32B6 (Qt5Gui): (filename not available): QGuiApplicationPrivate::processMouseEvent
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1B3AECB0)
+00007FFF1B3AECB0 (Qt5Gui): (filename not available): QWindowSystemInterface::sendWindowSystemEvents
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1AFCBA5A)
+00007FFF1AFCBA5A (Qt5Core): (filename not available): QEventDispatcherWin32::processEvents
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1A772DD9)
+00007FFF1A772DD9 (qwindows): (filename not available): qt_plugin_query_metadata
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1AF7EF2C)
+00007FFF1AF7EF2C (Qt5Core): (filename not available): QEventLoop::exec
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFF1AF81A94)
+00007FFF1AF81A94 (Qt5Core): (filename not available): QCoreApplication::exec
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF602AED394)
+00007FF602AED394 (TrenchBroom): (filename not available): main
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF602FBB977)
+00007FF602FBB977 (TrenchBroom): (filename not available): WinMain
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FF602FBA8F6)
+00007FF602FBA8F6 (TrenchBroom): (filename not available): __scrt_common_main_seh
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFFC67F259D)
+00007FFFC67F259D (KERNEL32): (filename not available): BaseThreadInitThunk
+ERROR: SymGetLineFromAddr64, GetLastError: 487 (Address: 00007FFFC7C6AF38)
+00007FFFC7C6AF38 (ntdll): (filename not available): RtlUserThreadStart
+
