@@ -1,98 +1,107 @@
----- qbsp / ericw-tools 2.0.0-alpha8-29-gb2f23f76 ----
+---- qbsp / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
 
-Input file: C:\Users\anderson04\Downloads\quake-leveldesign-starterkit-20240930-windows\quake-leveldesign-starterkit-20240930-windows\tools\ironwail\id1\maps\Demon_Lords_Castle\Demon_Lords_Castle-compile.map
-Output file: C:\Users\anderson04\Downloads\quake-leveldesign-starterkit-20240930-windows\quake-leveldesign-starterkit-20240930-windows\tools\ironwail\id1\maps\Demon_Lords_Castle\Demon_Lords_Castle.bsp
+Input file: C:\Users\fatgu\Downloads\quake-leveldesign-starterkit-20240916-windows\tools\ironwail\id1\maps\Demon_Lords_Castle\Demon_Lords_Castle-compile.map
+Output file: C:\Users\fatgu\Downloads\quake-leveldesign-starterkit-20240916-windows\tools\ironwail\id1\maps\Demon_Lords_Castle\Demon_Lords_Castle.bsp
 
 INFO: using built-in palette.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \e
+WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \q
+WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \p
+WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \p
+WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \k
-     12 entities
+fs::addArchive: WARNING: archive 'C:/Users/anderson04/Downloads/quake-leveldesign-starterkit-20240930-windows/quake-leveldesign-starterkit-20240930-windows/extras/quake/prototype-wad/prototype_basic_1_3.wad' not found
+     35 entities
       7 unique textures
-     61 texinfos
-    106 unique planes
+    361 texinfos
+    454 unique planes
 
 INFO: world extents calculated to 8072 units
-     36 brushes
-    216 sides
+    159 brushes
+    951 sides
+      8 side bevels
 
-            1 texture frames added
+            0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-     1 WATER | Q2_UNUSED_8 brushes
-    32 SOLID brushes
-     2 SKY brushes
-    35 brushes total
-    210 visible sides
-INFO: calculating BSP for 35 brushes with 210 sides
-     35 brushes
-    210 visible faces
-    209 nodes
-     84 expensive split nodes
-    125 mid-split nodes
-    210 leaves
-      7 WATER | Q2_UNUSED_8 leafs
-    121 EMPTY leafs
-     72 SOLID leafs
-     10 SKY leafs
-    210 leafs total
-    16 max tree height
-    10 avg tree height
-    918 tree portals
-WARNING: Reached occupant "path_corner" at (1112 -1112 328), no filling performed.
+      1 WATER | Q2_UNUSED_8 brushes
+    134 SOLID brushes
+      2 SKY brushes
+    137 brushes total
+    819 visible sides
+INFO: calculating BSP for 137 brushes with 819 sides
+    137 brushes
+    819 visible faces
+    1,277 nodes
+      794 expensive split nodes
+      483 mid-split nodes
+    1,278 leaves
+       17 WATER | Q2_UNUSED_8 leafs
+      672 EMPTY leafs
+       40 SKY leafs
+      549 SOLID leafs
+    1,278 leafs total
+    22 max tree height
+    13 avg tree height
+    5,454 tree portals
+WARNING: Reached occupant "path_corner" at (1080 -1224 328), no filling performed.
 Leak file written to Demon_Lords_Castle.pts
-            3 portals written to Demon_Lords_Castle.leak.prt
-    918 tree portals
-    350 sides visible
-      346 makefaces
-       62 merged
-    1,268 subdivided
-    10 nodes pruned
-      7 WATER | Q2_UNUSED_8 leafs
-    121 EMPTY leafs
-     62 SOLID leafs
-     10 SKY leafs
-    200 leafs total
-    16 max tree height
-    10 avg tree height
-      498 edges added by tjunctions
-    1,552 faces optimized through MWT
-    3,602 triangles computed from MWT
-       81 faces created via optimization of MWT triangles
-    3,559 edges
-    1,633 faces
+            5 portals written to Demon_Lords_Castle.leak.prt
+    5,454 tree portals
+    1,940 sides visible
+    1,928 makefaces
+      395 merged
+    2,140 subdivided
+    69 nodes pruned
+       17 WATER | Q2_UNUSED_8 leafs
+      672 EMPTY leafs
+       40 SKY leafs
+      480 SOLID leafs
+    1,209 leafs total
+    22 max tree height
+    13 avg tree height
+    1,756 edges added by tjunctions
+    3,667 faces optimized through MWT
+    9,090 triangles computed from MWT
+      362 faces created via optimization of MWT triangles
+    8,692 edges
+    4,035 faces
 Processing hull 1...
-WARNING: Reached occupant "path_corner" at (1112 -120 -8), no filling performed.
+WARNING: Reached occupant "path_corner" at (1048 -1192 856), no filling performed.
 Processing hull 2...
-WARNING: Reached occupant "path_corner" at (1112 -120 -8), no filling performed.
-WARNING: worldspawn at 0 0 0 has long value for key wad (length 203 >= 127)
+WARNING: Reached occupant "path_corner" at (1080 -1224 328), no filling performed.
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 266 >= 127)
 Writing Demon_Lords_Castle.bsp as Quake BSP bsp29
 Wrote Demon_Lords_Castle.bsp
 
 count   lump name    byte size 
-      2 models              128
-    153 planes             3060
-   1236 vertexes          14832
-    205 nodes              4920
-     52 texinfos           2080
-   1639 faces             32780
-   1239 clipnodes          9912
-    146 leafs              4088
-   1670 marksurfaces       3340
-   3572 edges             14288
-   6892 surfedges         27568
-      8 textures         164876
+      3 models              192
+    499 planes             9980
+   4044 vertexes          48528
+   1264 nodes             30336
+    257 texinfos          10280
+   4281 faces             85620
+  10983 clipnodes         87864
+    788 leafs             22064
+   4551 marksurfaces       9102
+   9207 edges             36828
+  18182 surfedges         72728
+      7 textures          99552
         lightdata             0
         visdata               0
-        entdata            1080
+        entdata            2932
 
-0.057s seconds elapsed
+0.216s seconds elapsed
 
 
