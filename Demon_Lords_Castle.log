@@ -22,85 +22,85 @@ WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
 WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \k
 fs::addArchive: WARNING: archive 'C:/Users/anderson04/Downloads/quake-leveldesign-starterkit-20240930-windows/quake-leveldesign-starterkit-20240930-windows/extras/quake/prototype-wad/prototype_basic_1_3.wad' not found
-       72 entities
-        8 unique textures
-    1,118 texinfos
-    1,128 unique planes
+      120 entities
+        9 unique textures
+    1,649 texinfos
+    1,782 unique planes
 
 INFO: world extents calculated to 11584 units
-      416 brushes
-    2,493 sides
-       34 side bevels
+      688 brushes
+    4,125 sides
+      169 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    333 SOLID brushes
-      1 WATER | Q2_UNUSED_8 brushes
-    334 brushes total
-    2,001 visible sides
-INFO: calculating BSP for 334 brushes with 2001 sides
-      334 brushes
-    2,001 visible faces
-    3,572 nodes
-    2,825 expensive split nodes
-      747 mid-split nodes
-    3,573 leaves
-       50 WATER | Q2_UNUSED_8 leafs
-    1,887 EMPTY leafs
-    1,636 SOLID leafs
-    3,573 leafs total
-    22 max tree height
-    15 avg tree height
-    26 tiny portals
-    15,334 tree portals
+    582 SOLID brushes
+      3 SKY brushes
+    585 brushes total
+    3,511 visible sides
+INFO: calculating BSP for 585 brushes with 3511 sides
+      585 brushes
+    3,511 visible faces
+    7,104 nodes
+    5,345 expensive split nodes
+    1,759 mid-split nodes
+    7,105 leaves
+    3,568 EMPTY leafs
+    3,498 SOLID leafs
+       39 SKY leafs
+    7,105 leafs total
+    25 max tree height
+    16 avg tree height
+    36 tiny portals
+    30,041 tree portals
 WARNING: Reached occupant "path_corner" at (1032 -1232 328), no filling performed.
 Leak file written to Demon_Lords_Castle.pts
-            4 portals written to Demon_Lords_Castle.leak.prt
-    26 tiny portals
-    15,334 tree portals
-    5,297 sides visible
-    5,243 makefaces
-      792 merged
-    3,902 subdivided
-    190 nodes pruned
-       50 WATER | Q2_UNUSED_8 leafs
-    1,887 EMPTY leafs
-    1,446 SOLID leafs
-    3,383 leafs total
-    22 max tree height
-    15 avg tree height
-     4,720 edges added by tjunctions
-     8,340 faces optimized through MWT
-    21,405 triangles computed from MWT
-       851 faces created via optimization of MWT triangles
-    20,165 edges
-     9,204 faces
+            3 portals written to Demon_Lords_Castle.leak.prt
+    36 tiny portals
+    30,041 tree portals
+    9,883 sides visible
+    9,883 makefaces
+    1,675 merged
+    4,312 subdivided
+    509 nodes pruned
+    3,568 EMPTY leafs
+    2,989 SOLID leafs
+       39 SKY leafs
+    6,596 leafs total
+    24 max tree height
+    16 avg tree height
+     7,579 edges added by tjunctions
+    12,454 faces optimized through MWT
+    32,522 triangles computed from MWT
+     1,640 faces created via optimization of MWT triangles
+    30,580 edges
+    14,160 faces
 Processing hull 1...
-WARNING: Reached occupant "monster_army" at (3300 144 160), no filling performed.
+WARNING: Reached occupant "path_corner" at (1040 -1240 856), no filling performed.
 Processing hull 2...
-WARNING: Reached occupant "monster_army" at (3300 144 160), no filling performed.
+WARNING: Reached occupant "path_corner" at (1528 -1240 856), no filling performed.
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 266 >= 127)
 Writing Demon_Lords_Castle.bsp as Quake BSP bsp29
 Wrote Demon_Lords_Castle.bsp
 
 count   lump name    byte size 
-     11 models              704
-   1151 planes            23020
-   9931 vertexes         119172
-   3486 nodes             83664
-    662 texinfos          26480
-   9394 faces            187880
-  31428 clipnodes        251424
-   2052 leafs             57456
-  10274 marksurfaces      20548
-  20584 edges             82336
-  40646 surfedges        162584
-      8 textures          83276
+     31 models             1984
+   1902 planes            38040
+  16097 vertexes         193164
+   6815 nodes            163560
+    963 texinfos          38520
+  14472 faces            289440
+  56434 clipnodes        451472
+   3858 leafs            108024
+  15870 marksurfaces      31740
+  31243 edges            124972
+  62216 surfedges        248864
+      9 textures         143160
         lightdata             0
         visdata               0
-        entdata            5884
+        entdata            8156
 
-0.610s seconds elapsed
+1.114s seconds elapsed
 
 
