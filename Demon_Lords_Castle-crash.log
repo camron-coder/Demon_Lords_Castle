@@ -1,0 +1,57 @@
+Renderer info: AMD Radeon(TM) Graphics version 4.6.0 Compatibility Profile Context 24.9.1.240813 from ATI Technologies Inc.
+Depth buffer bits: 24
+Multisampling enabled
+Adding file system path "C:/Users/fatgu/Downloads/quake-leveldesign-starterkit-20240916-windows/level-editor\\defaults\\assets"
+Adding file system path "C:/Users/fatgu/Downloads/quake-leveldesign-starterkit-20240916-windows/tools/ironwail\\id1"
+Adding file system package "PAK0.PAK"
+Adding file system package "PAK1.PAK"
+Loading document from C:\Users\fatgu\Downloads\quake-leveldesign-starterkit-20240916-windows\tools\ironwail\id1\maps\Demon_Lords_Castle\Demon_Lords_Castle.map
+Found 0 shaders
+Loaded entity definition file Quake.fgd
+Could not load wad file at '"C:/Users/anderson04/Downloads/quake-leveldesign-starterkit-20240930-windows/quake-leveldesign-starterkit-20240930-windows/extras/quake/prototype-wad/prototype_basic_1_3.wad"': Failed to open '': path does not denote a file
+Found 0 shaders
+Loaded "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 232ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 13ms
+Created autosave backup at "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\autosave\\Demon_Lords_Castle.8.map"
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 9ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 15ms
+Created autosave backup at "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\autosave\\Demon_Lords_Castle.9.map"
+Could not update brush: Error{msg: Brush is incomplete}
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 17ms
+Created autosave backup at "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\autosave\\Demon_Lords_Castle.10.map"
+Could not resize brush: Brush is empty
+Could not resize brush: Brush is empty
+Could not resize brush: Brush is empty
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 15ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 13ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 17ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 16ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 10ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 14ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 15ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 15ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 12ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 14ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 16ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 10ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 17ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 9ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 15ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 10ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 17ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 16ms
+Created autosave backup at "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\autosave\\Demon_Lords_Castle.11.map"
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 16ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 15ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 14ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 10ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 9ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 10ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 10ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 9ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 17ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 16ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 18ms
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 10ms
+Created autosave backup at "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\autosave\\Demon_Lords_Castle.4.map"
+Saved "C:\\Users\\fatgu\\Downloads\\quake-leveldesign-starterkit-20240916-windows\\tools\\ironwail\\id1\\maps\\Demon_Lords_Castle\\Demon_Lords_Castle.map" in 18ms
