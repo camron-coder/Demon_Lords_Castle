@@ -1,106 +1,134 @@
----- qbsp / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+---- qbsp / ericw-tools 2.0.0-alpha8-60-gd0788ac0 ----
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
 
-Input file: C:\Users\fatgu\Downloads\quake-leveldesign-starterkit-20240916-windows\tools\ironwail\id1\maps\Demon_Lords_Castle\Demon_Lords_Castle-compile.map
-Output file: C:\Users\fatgu\Downloads\quake-leveldesign-starterkit-20240916-windows\tools\ironwail\id1\maps\Demon_Lords_Castle\Demon_Lords_Castle.bsp
+Input file: C:\Users\fatgu\Downloads\quake-leveldesign-starterkit-20241210-windows\working\quake\Demon_Lords_Castle\Demon_Lords_Castle-compile.map
+Output file: C:\Users\fatgu\Downloads\quake-leveldesign-starterkit-20241210-windows\working\quake\Demon_Lords_Castle\Demon_Lords_Castle.bsp
 
 INFO: using built-in palette.
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \e
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \q
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \p
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \p
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \.
-WARNING: Demon_Lords_Castle-compile.map[line 6]: Unrecognised string escape - \k
-fs::addArchive: WARNING: archive 'C:/Users/anderson04/Downloads/quake-leveldesign-starterkit-20240930-windows/quake-leveldesign-starterkit-20240930-windows/extras/quake/prototype-wad/prototype_basic_1_3.wad' not found
-      120 entities
-        9 unique textures
-    1,649 texinfos
-    1,782 unique planes
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \e
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \q
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \p
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \p
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \k
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \s
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \d
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \D
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \m
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \M
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \a
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \a
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \u
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \u
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \d
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \d
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \g
+WARNING: Demon_Lords_Castle-compile.map[line 4]: Unrecognised string escape - \G
+      626 entities
+      118 unique textures
+    2,541 texinfos
+    1,850 unique planes
 
 INFO: world extents calculated to 11584 units
-      688 brushes
-    4,125 sides
-      169 side bevels
+      710 brushes
+    4,260 sides
+      199 side bevels
 
             0 texture frames added
-WARNING: unable to find texture skip
 Processing hull 0...
-    582 SOLID brushes
+    594 SOLID brushes
       3 SKY brushes
-    585 brushes total
-    3,511 visible sides
-INFO: calculating BSP for 585 brushes with 3511 sides
-      585 brushes
-    3,511 visible faces
-    7,104 nodes
-    5,345 expensive split nodes
-    1,759 mid-split nodes
-    7,105 leaves
-    3,568 EMPTY leafs
-    3,498 SOLID leafs
-       39 SKY leafs
-    7,105 leafs total
-    25 max tree height
+    597 brushes total
+    3,586 visible sides
+INFO: calculating BSP for 597 brushes with 3586 sides
+      597 brushes
+    3,586 visible faces
+    7,335 nodes
+    5,699 expensive split nodes
+    1,636 mid-split nodes
+    7,336 leaves
+    3,668 EMPTY leafs
+    3,648 SOLID leafs
+       20 SKY leafs
+    7,336 leafs total
+    26 max tree height
     16 avg tree height
-    36 tiny portals
-    30,041 tree portals
+    45 tiny portals
+    31,175 tree portals
 WARNING: Reached occupant "path_corner" at (1032 -1232 328), no filling performed.
 Leak file written to Demon_Lords_Castle.pts
             3 portals written to Demon_Lords_Castle.leak.prt
-    36 tiny portals
-    30,041 tree portals
-    9,883 sides visible
-    9,883 makefaces
-    1,675 merged
-    4,312 subdivided
-    509 nodes pruned
-    3,568 EMPTY leafs
-    2,989 SOLID leafs
-       39 SKY leafs
-    6,596 leafs total
-    24 max tree height
+    45 tiny portals
+    31,175 tree portals
+    10,169 sides visible
+    10,169 makefaces
+     1,646 merged
+     9,210 subdivided
+    530 nodes pruned
+    3,668 EMPTY leafs
+    3,118 SOLID leafs
+       20 SKY leafs
+    6,806 leafs total
+    26 max tree height
     16 avg tree height
-     7,579 edges added by tjunctions
-    12,454 faces optimized through MWT
-    32,522 triangles computed from MWT
-     1,640 faces created via optimization of MWT triangles
-    30,580 edges
-    14,160 faces
+    10,513 edges added by tjunctions
+    17,655 faces optimized through MWT
+    45,852 triangles computed from MWT
+     2,511 faces created via optimization of MWT triangles
+    43,439 edges
+    20,244 faces
 Processing hull 1...
-WARNING: Reached occupant "path_corner" at (1040 -1240 856), no filling performed.
+WARNING: Reached occupant "light" at (3636 -320 -24), no filling performed.
 Processing hull 2...
-WARNING: Reached occupant "path_corner" at (1528 -1240 856), no filling performed.
-WARNING: worldspawn at 0 0 0 has long value for key wad (length 266 >= 127)
+WARNING: Reached occupant "light" at (2592 -304 -72), no filling performed.
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 330 >= 127)
 Writing Demon_Lords_Castle.bsp as Quake BSP bsp29
 Wrote Demon_Lords_Castle.bsp
 
 count   lump name    byte size 
      31 models             1984
-   1902 planes            38040
-  16097 vertexes         193164
-   6815 nodes            163560
-    963 texinfos          38520
-  14472 faces            289440
-  56434 clipnodes        451472
-   3858 leafs            108024
-  15870 marksurfaces      31740
-  31243 edges            124972
-  62216 surfedges        248864
-      9 textures         143160
+   1982 planes            39640
+  22683 vertexes         272196
+   7025 nodes            168600
+   1521 texinfos          60840
+  20575 faces            411500
+  58099 clipnodes        464792
+   3939 leafs            110292
+  22188 marksurfaces      44376
+  44143 edges            176572
+  87808 surfedges        351232
+    118 textures        2905972
         lightdata             0
         visdata               0
-        entdata            8156
+        entdata           44747
 
-1.114s seconds elapsed
+1.153s seconds elapsed
 
 

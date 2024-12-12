@@ -1,0 +1,82 @@
+---- light / ericw-tools 2.0.0-alpha8-60-gd0788ac0 ----
+LoadBSPFile: 'Demon_Lords_Castle.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+Loading extended texinfo flags from Demon_Lords_Castle.texinfo.json...
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \e
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \q
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \p
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \p
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \k
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \s
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \d
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \D
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \m
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \M
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \a
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \a
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \u
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \u
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \d
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \d
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \.
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \g
+WARNING: Demon_Lords_Castle.bsp[line 3]: Unrecognised string escape - \G
+WARNING: entity at (2512 -1104 408) (trigger_counter) has empty key/value "killtarget" ""
+WARNING: entity at (1352 -1240 856) (path_corner) has empty key/value "wait" ""
+WARNING: entity at (1696 -1240 848) (path_corner) has empty key/value "wait" ""
+WARNING: brush entity with mins [-551 -143 1] maxs [-369 -11 135] (func_train) has empty key/value "dmg" ""
+WARNING: brush entity with mins [-543 -127 -15] maxs [-393 -17 -1] (func_train) has empty key/value "dmg" ""
+WARNING: entity at (3328 -160 -96) (light) has empty key/value "killtarget" ""
+615 entities read, 507 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+DecompressAllVis: invalid visofs for leaf 0
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	81 sky faces
+	20163 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 507 initial lights
+SetupLights: 507 after surface lights
+SetupLights: 507 after jittering
+WARNING: couldn't nudge light out of solid at 4028 -1292 932
+Final count: 507 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 821608
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing Demon_Lords_Castle.bsp as Quake BSP bsp29
+0.857s seconds elapsed
+0 empty lightmaps
+
+
