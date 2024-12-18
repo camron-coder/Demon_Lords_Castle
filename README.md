@@ -6,8 +6,9 @@ Welcome to my process journel for my single player quake map that is made to be 
 
 1) [Theme](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Theme.md)
 2) [Credits](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Credits.md)
-3) [Blockout process](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Blockout.md)
-4) [Iterations](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Gameplay%20and%20Iteration.md)
-5) [Lighting and textureing](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Lighting%20and%20Textures.md)
-6) [Final entry- walkthrough](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Final%20map%20walkthrough%20video.md)
+3) [Area concepts](https://github.com/camron-coder/Demon_Lords_Castle/blob/v1.0.0/A%26B%20diagram.md)
+4) [Blockout process](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Blockout.md)
+5) [Iterations](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Gameplay%20and%20Iteration.md)
+6) [Lighting and textureing](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Lighting%20and%20Textures.md)
+7) [Final entry- walkthrough](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Final%20map%20walkthrough%20video.md)
 
