@@ -4,4 +4,4 @@
 1) [Theme](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Theme.md)
 2) [Credits](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Credits.md)
 3) [Blockout]
-4) [Iterations]
+4) [Iterations](https://github.com/camron-coder/Demon_Lords_Castle/blob/main/Gameplay%20and%20Iteration.md)
